@@ -1,0 +1,20 @@
+[submodule "quiz-config"]
+	path = quiz-config
+	url = git@github.com:sofnul/quiz-config.git
+	branch = master
+[submodule "quiz-eureka"]
+	path = quiz-eureka
+	url = git@github.com:sofnul/quiz-eureka.git
+	branch = master
+[submodule "quiz-zuul"]
+	path = quiz-zuul
+	url = git@github.com:sofnul/quiz-zuul.git
+	branch = master
+[submodule "quiz-core"]
+	path = quiz-core
+	url = git@github.com:sofnul/quiz-core.git
+	branch = master
+[submodule "quiz-web"]
+	path = quiz-web
+	url = git@github.com:sofnul/quiz-web.git
+	branch = master
